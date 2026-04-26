@@ -8,7 +8,33 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="https://rysorhe.github.io/major-analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-## What did we do?
+## The Process
+
+For the scope of this study, we will count the number of students who intend to or are currently majoring in computer science, then count the number of students who intend to or are majoring in a non-computer science STEM course. For our purposes, such courses are defined as:
+- Applied Sciences
+- Biomedical Engineering
+- Biostatistics
+- Chemistry
+- Clinical Lab Science
+- Data Science
+- Earth Science
+- Economics
+- Environmental Science/Studies
+- Environmental Health Sciences
+- Geology
+- Information Science
+- Mathematics
+- Neuroscience
+- Nursing
+- Physics
+- Psychology
+- Radiology
+- Sociology
+- Statistics and Analytics
+
+We acknowledge that there is a certain degree of subjectivity in determining which majors count as STEM, and we aimed to select any majors that involve a great deal of quantitative research or laboratory experience. 
+
+## Conclusions
 
 We analyzed data from a class-wide survey to determine what the most common majors are among students currently enrolled in COMP110. Using this information, we can consider changes that would benefit more students; in this case, we are proposing the integration of targeted data sets into the course structure, thus making them more relevant and applicable for students who are in common majors. 
 
