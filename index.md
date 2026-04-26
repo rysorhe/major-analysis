@@ -3,11 +3,11 @@
 layout: default
 ---
 
-# This is a big header
+# What Are the Majors in COMP110?
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="https://rysorhe.github.io/major-analysis/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-## This is a small header
+## What did we do?
 
-This is basic paragraph text.
+We analyzed data from a class-wide survey to determine what the most common majors are among students currently enrolled in COMP110. Using this information, we can consider changes that would benefit more students; in this case, we are proposing the integration of targeted data sets into the course structure, thus making them more relevant and applicable for students who are in common majors. 
